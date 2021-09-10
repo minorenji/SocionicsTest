@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SocionicsTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SocionicsTest_jar</output-path>
+    <root id="archive" name="SocionicsTest.jar">
+      <element id="module-output" name="SocionicsTest" />
+    </root>
+  </artifact>
+</component>
