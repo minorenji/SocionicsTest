@@ -1,0 +1,106 @@
+s- Rationality
+
+q- It is better if I think and plan in advance. : It is better if I improvise based on the changing situation.
+q- I'm consistent and reliable, but not flexible. : I'm flexible and changeable, but lack consistency.
+q- I calm down only when everything is established. : I cannot live without a constant change of impressions.
+q- I have a stable capacity for work. : I live in rhythmic ups and downs.
+q- My mood, if nobody spoils it, will be stable. : My mood is relatively unstable, sometimes changing for reasons aren't clear to other people.
+q- Norms and obligations organize my work. : Freedom from obligations is vitally important for me.
+q- I can hardly change my decision once I have come to a conclusion. : I easily change a decision if the conditions have changed.
+q- I'm constantly tense somewhat more than necessary. : I'm constantly relaxed somewhat more than necessary.
+q- I explain better than notice. : I notice better than explain.
+q- I do not tolerate sharp, unforeseen turns of events. : Unexpected change of my plans is usual for me.
+q- I easily adhere to a solid schedule. : I cannot do one thing for a long time, even if I need to.
+q- I plan and distribute my work evenly. : First I start, and then I make up for lost time.
+q- Others consider me consistent. : Others consider me flexible.
+q- I do not start something new until I've finished the previous task. : Usually, I start several projects at once, sometimes leaving them unfinished.
+q- A bad mood has little impact on my productivity. : I'm strongly dependent on my internal state.
+q- I am a person of duty and discipline. : I can be wishy-washy due to changes in my mood.
+q- I judge better than I perceive. : I perceive better than judge.
+q- I do not feel well when there is confusion around me. : I easily maneuver through chaotic situations.
+q- When I feel down, I contemplate what went wrong in the past. : When I feel down, I think about what I can do in the future to feel better.
+q- I feel more comfortable when I have already made all the necessary decisions. : I tend to postpone decisions for later.
+
+s- Extraversion
+
+q- I easily initiate contact with other people. : I expect others to initiate or establish contacts.
+q- The scope of my activities naturally expands. : My activities are characterized by depth, not breadth.
+q- I eagerly start new projects. : I limit the scope of activities when possible.
+q- I spend energy without hesitation. : It's easy for me to save energy.
+q- I enjoy telling or showing. : More often I listen or watch.
+q- I am an open person. : I am a reserved person.
+q- My activities expand in breadth. : I do not expand until I master what I've acquired.
+q- In work, I confidently initiate new contacts. : I work confidently when there are fewer contacts.
+q- I use information more than I save. : I save information more than I use.
+q- I solve external problems faster than internal ones. : I solve internal problems faster than external ones.
+q- I am more around myself than in myself. : I am more in myself than around myself.
+q- I give more energy than I save. : I save more energy than I give.
+q- It is easier for me to understand others than understand myself. : I understand my motives more easily than the actions of others.
+q- I spend more energy than I accumulate. : I save more energy than I waste.
+q- Contacts with strangers do not bother me. : Contacts with strangers require effort.
+q- Often I regret excessive activity. : Often I regret a lack of activity.
+q- I try to include other people in an interaction. : I wish to be included in interactions by other people.
+q- I am more afraid of being too passive when it is time to act. : I am afraid of being too active when it isn't appropriate.
+q- I am more inclined to take initiative and be more proactive. : I am inclined to act only when it is necessary.
+q- I like to take on responsibilities more than be assigned duties and obligations. : I would rather be assigned duties than take on responsibilities.
+q- In a group, I pay more attention to others, trying to shake them up. I get bored if there's no one to pay attention to. : In a group, I try to draw attention to myself. I get disappointed if no one pays attention to me.
+q- I am more focused on pursuing my goals than avoiding failure. : I am more focused on avoiding failure than pursuing new goals.
+q- I am more afraid of not doing something when it is necessary. : I am more afraid of doing something unnecessary when it is not needed.
+q- I worry more about whether I should have done more. : I worry more about whether I have done too much.
+
+s- Sensing/Intuition
+
+q- If necessary, I take (physical) care of myself easily. : I take care of myself with great reluctance.
+q- I use what I have skillfully. : I imagine more than I have in reality.
+q- It is easy for me to be practical with regards to the physical world. : My loved ones are bothered by my physical impracticality.
+q- I am more successful in doing what is proven and reliable. : I'm more effective in unusual, incomprehensible situations.
+q- I trust acquired experience, not intuition. : I rely on my assumptions and guesses.
+q- My practical skills are stronger than my imagination. : My imagination is stronger than my practical skills.
+q- I feel my body; I stand firmly on my feet. : Plunging into my world, I can forget about the most urgent physical needs.
+q- I am a precise and realistic person. : Ideas and original assumptions are my areas.
+q- I proceed from an actual state of affairs. : I proceed from possibilities and prospects.
+q- I get more joy from physical activity. : I receive more joy from a sudden idea.
+q- I produce more tangible products than ideas. : I generate more ideas than I actually implement.
+q- I notice everything in my physical surroundings. : I see only what I attach importance to.
+q- I'm really good at finding specific items in a pile of other things. : I can struggle to locate items if there is too much clutter.
+q- I feel like I have good control of my body and orient well physically. : I feel awkward with respect to my physical surroundings.
+q- When I am missing information I try to acquire it. : When I am missing information I rely on my assumptions.
+q- I am more of an operator than an experimenter. : I am more of an experimenter than a user.
+q- I feel like I am more capable of living in the moment than others. : I tend to live in the past and future more than the present.
+q- I am usually attentive to my physical needs. : I can forget about my physical needs if I am distracted by something more interesting.
+q- I am perfectly capable of handling housework. : I am inclined to entrust other people with housework whenever possible.
+q- I am better than others at making decisions based on the present situation. : I am better than others at making decisions based on future consequences.
+q- I am confident about the state of my external appearance. : I am often unsure about how my appearance is perceived by others.
+q- I am usually aware when I am sick or if my body feels 'off'. : I am unsure about my health and rely more on the doctor's opinion.
+q- I am careful about my usage of time and warily anticipate the future. : I am confident about managing my time and can make predictions about the future.
+q- I attend to minor chores as they come up. : I tend to postpone even minor chores for as long as possible.
+
+s- Ethics/Logic
+
+q- My behavior is usually not guided by my emotions. : I experience feelings deeply and they often influence my behavior.
+q- My prudence is appreciated more than my feelings. : My humanity is valued more than my reasoning.
+q- I rely on criteria and calculations. : I am influenced by others' attitudes and sympathies.
+q- I focus on being polite and adhering to social norms. : I am more flexible with social norms and interact with people as I please.
+q- I am moved by necessity, and then sympathy. : I am moved by sympathy, then necessity.
+q- I live more by reason than by heart. : I live more with my heart than with my mind.
+q- I pay more attention to the validity and usefulness of a decision. : I pay more attention to how people will feel about a decision.
+q- The coldness of people does not bother me. : I worry if nearby people seem cold.
+q- I have a low amount of emotional variety in my voice. : There are many shades in my voice.
+q- I react more to the content of the conversation. : I'm very responsive to the intonation of the speaker.
+q- I'd rather express my thoughts than convey my mood. : I'd rather convey my mood than lay out my thoughts.
+q- It is better to prove than to persuade. : It is better to persuade than to prove.
+q- I react sharply to absurdity and irrationality. : I am sensitive to rudeness and ingratitude.
+q- I choose friends more by their reliability than by my sympathy. : I choose friends more by my sympathy than their reliability.
+q- Emotions do not affect me deeply. : Feelings and impressions accompany my actions.
+q- I am pleased to analyze and order. : I am pleased to communicate with good people.
+q- I gain more respect through my competence and intelligence. : I attract people through my humanity and sympathy.
+q- I interact with people in mostly the same manner. : I adjust my emotional expression based on the situation.
+q- I am often unaware of how somebody feels. : I notice someone's attitude in their words and behavior.
+q- I am more confident in my ability to complete tasks than to establish relationships. : I am more confident in my ability to establish relationships than to complete tasks.
+q- I struggle to express and talk about my feelings. : I know how to make my feelings known and often express them.
+q- I am comfortable explaining and justifying my decisions. : I have a hard time justifying my decisions in a logical manner.
+q- I consult others for help with my relationships. : I consult others for help with my practical affairs.
+q- I can be unsure of my feelings towards others, but they are relatively stable. : I am well aware of my feelings towards others, as well as subtle changes in them.
+q- When I am upset with someone, it is easier for me to explain why their behavior is irrational. : When I am upset with someone, it is easier for me to explain how they have made me feel.
+q- I am confident in evaluating the quality of my work. : I am unsure about the quality of my work and often rely on outside evaluations.
+q- I am careful about how I express myself out of fear of saying something inappropriate. : I am more relaxed with my emotional expression and usually know what is appropriate and what isn't.
