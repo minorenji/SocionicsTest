@@ -4,7 +4,6 @@
     A program that conducts a simple Socionics test and returns the most likely sociotype.
  */
 
-
 package com.company;
 
 public class Main {
